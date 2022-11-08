@@ -24,3 +24,4 @@
 偷懒一天
 
 ### 2022-11-07 day8
+学习TS class any unknown never相关知识
